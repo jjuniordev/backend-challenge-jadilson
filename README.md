@@ -142,7 +142,7 @@ Aqui estão algumas coisas que você deve saber sobre mim:
 
 - 🎓 Eu me formei em 2012.
 - 💼 Atualmente, estou trabalhando na comunidade BuildersHub e sou Ituber há quase 3 anos.
-- 🛠️ Minhas principais habilidades técnicas incluem [listar suas principais habilidades técnicas].
+- 🛠️ Minhas principais habilidades técnicas incluem API, Cloud, CleanCode.
 - 🌱 Atualmente, estou aprendendo AWS.
 
 Se tiver alguma dúvida ou comentário, sinta-se à vontade para entrar em contato comigo!
